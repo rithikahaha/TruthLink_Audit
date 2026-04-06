@@ -1,4 +1,4 @@
-# 🛡️ The Data Truth Audit: Finding the Lies in the Numbers
+# The Data Truth Audit: Finding the Lies in the Numbers
 
 ![Project Dashboard](dashboard.png)
 
