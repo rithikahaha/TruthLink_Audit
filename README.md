@@ -1,4 +1,6 @@
-# The "Data Truth" Audit: Finding the Lies in the Numbers
+<img width="1233" height="739" alt="kpi_distortion_chart" src="https://github.com/user-attachments/assets/e96bd591-735a-4d87-ba59-7af7c7a838d0" />
+# The "Data Truth" Audit: 
+Finding the Lies in the Numbers
 
 ### What is this project?
 Imagine you are running a lemonade stand. At the end of the day, your notebook says you made **₹1,000**. But when you count the cash in the box, you only have **₹800**. 
