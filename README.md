@@ -1,7 +1,7 @@
 # TruthLink: Finding the Lies in the Numbers
 
 ### The KPI Distortion Audit
-![Audit Graph](Screenshot%20(143).png)
+![Audit Graph](kpi_distortion_chart.png)
 
 > **Quick Insight:** This chart visualizes the "Distortion Gap"—the percentage of error introduced by uncleaned data into our three core business metrics.
 
