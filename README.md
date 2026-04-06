@@ -1,6 +1,9 @@
-<img width="1233" height="739" alt="kpi_distortion_chart" src="https://github.com/user-attachments/assets/e96bd591-735a-4d87-ba59-7af7c7a838d0" />
-# The "Data Truth" Audit: 
-Finding the Lies in the Numbers
+# TruthLink: Finding the Lies in the Numbers
+
+### The KPI Distortion Audit
+![Audit Graph](Screenshot%20(143).png)
+
+> **Quick Insight:** This chart visualizes the "Distortion Gap"—the percentage of error introduced by uncleaned data into our three core business metrics.
 
 ### What is this project?
 Imagine you are running a lemonade stand. At the end of the day, your notebook says you made **₹1,000**. But when you count the cash in the box, you only have **₹800**. 
